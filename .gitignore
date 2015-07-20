@@ -58,3 +58,6 @@ target/
 
 # Datafiles
 data/
+
+# iPython Checkpoints
+.ipynb_checkpoints/
